@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "김진웅"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/빈접시예측(m)3.png"
   bio              : "I am an **amazing** person."
   # location         : "Somewhere"
   email            : "jukpa0610@gmail.com"
