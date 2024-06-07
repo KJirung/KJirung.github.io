@@ -124,7 +124,7 @@ author:
     - label : "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KJirung"
-    - label: "Website"
+    - label: "Velog"
       icon: "fas fa-fw fa-link"
       url: "https://velog.io/@dnddl9456/posts"
     # - label: "Twitter"
