@@ -16,10 +16,20 @@ Github : [https://github.com/KJirung/A_Delicious_Traveler/tree/main](https://git
 ## 맡은 역할
 
 - 데이터 수집 및 생성
+
 - Detection 모델 학습
+
 - Classification 모델 학습
+
 - Openmax 구현
+
 - 앱 내 Detection 모델 연동
+
+  
+
+---
+
+<br/>
 
 
 
