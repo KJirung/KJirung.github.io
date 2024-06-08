@@ -1,6 +1,6 @@
 ---
 layout: single
-title : "줄넘기 개수 측정 모델"
+title : "Smart QR Scanner"
 ---
 
 주제 : 큐싱 방지를 위한 Smart Qr Scanner(졸업 프로젝트)
